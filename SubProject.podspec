@@ -3,10 +3,10 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "SubProject"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.3"
   spec.summary      = "我的一个组件化模块"
 
-  spec.homepage     = "hhttps://github.com/zyj870430/SubProject.git"
+  spec.homepage     = "https://github.com/zyj870430/SubProject.git"
 
   spec.license      = "MIT"
 
